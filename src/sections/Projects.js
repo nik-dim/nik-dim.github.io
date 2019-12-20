@@ -117,7 +117,9 @@ const EllipsisHeading = styled(Text)`
   border-bottom: ${props => props.theme.colors.primary} 5px solid;
 `;
 const Post = ({ title, text, image, url, date, time }) => (
-  <Card onClick={() => window.open(url, '_blank')} pb={4}>
+  <Card
+    // onClick={() => window.open(url, '_blank')} 
+    pb={4}>
     <EllipsisHeading m={3} p={1}>
       {title}
     </EllipsisHeading>
@@ -138,7 +140,9 @@ const Project = ({
   publishedDate,
   logo,
 }) => (
-    <Card onClick={() => window.open(url, '_blank')} pb={4} className='intro section-border'>
+    <Card
+      // onClick={() => window.open(url, '_blank')} 
+      pb={4} className='intro section-border'>
       {/* <EllipsisHeading m={3} p={1}>
         {name}
       </EllipsisHeading> */}

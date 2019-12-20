@@ -30,7 +30,7 @@ const IndexPage = () => (
       {/* <Writing /> */}
       <Footer />
     </div>
-    <ParticlesBg color="#888888" num={250} type="cobweb" bg={true} />
+    {/* <ParticlesBg color="#888888" num={250} type="cobweb" bg={true} /> */}
   </Layout>
 );
 
