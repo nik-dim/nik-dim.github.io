@@ -10,7 +10,8 @@
 
 title: Nikos Dimitriadis                          # the main title
 
-tagline: soon-to-be PhD student  # it will display as the sub-title
+tagline: studying ECE @ NTUA
+  #  soon-to-be PhD student  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
