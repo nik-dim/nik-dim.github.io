@@ -1,18 +1,10 @@
-# hidden files
-.*
-!.gitignore
+# IDEs
+.idea/
 
-# python compiled files
-*.pyc
-
-# jekyll debug
-_site
-
-# Jeykll Gemfile.lock
-Gemfile.lock
-
-# yui-compressor
-*.jar
-
-# bundle cache
-vendor
+# Hugo
+resources/
+public/
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.lock
