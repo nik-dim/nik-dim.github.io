@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Nikolaos Dimitriadis</title>
+    <link>https://nik-dim.github.io/test/publication/</link>
+      <atom:link href="https://nik-dim.github.io/test/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 20:43:10 +0000</lastBuildDate>
+    <image>
+      <url>https://nik-dim.github.io/test/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://nik-dim.github.io/test/publication/</link>
+    </image>
+    
+    <item>
+      <title>Advances in morphological neural networks: training, pruning and enforcing shape constraints</title>
+      <link>https://nik-dim.github.io/test/publication/icassp2021/</link>
+      <pubDate>Fri, 11 Jun 2021 20:43:10 +0000</pubDate>
+      <guid>https://nik-dim.github.io/test/publication/icassp2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in the training, pruning and enforcement of shape constraints of Morphological Neural Networks using Tropical Algebra</title>
+      <link>https://nik-dim.github.io/test/publication/arxiv2021/</link>
+      <pubDate>Sun, 15 Nov 2020 20:43:10 +0000</pubDate>
+      <guid>https://nik-dim.github.io/test/publication/arxiv2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
