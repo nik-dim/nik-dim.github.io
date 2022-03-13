@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://nik-dim.github.io/test/sitemap.xml
+Sitemap: https://nik-dim.github.io/sitemap.xml
