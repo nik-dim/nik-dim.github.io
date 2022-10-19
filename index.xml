@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Pareto Manifold Learning: Tackling Multiple Tasks via Ensembles of Single-Task Models</title>
+      <link>https://nik-dim.github.io/publication/dimitriadis-frossard-fleuret-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nik-dim.github.io/publication/dimitriadis-frossard-fleuret-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Theoretical Expressiveness of Maxpooling</title>
       <link>https://nik-dim.github.io/publication/matoba-dimitriadis-fleuret-2022/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
@@ -168,7 +176,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-461527398&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-569837124&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -178,7 +186,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-461527398&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-569837124&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
