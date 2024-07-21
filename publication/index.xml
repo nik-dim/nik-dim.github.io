@@ -5,12 +5,28 @@
     <link>https://nik-dim.github.io/publication/</link>
       <atom:link href="https://nik-dim.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nik-dim.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://nik-dim.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Localizing Task Information for Improved Model Merging and Compression</title>
+      <link>https://nik-dim.github.io/publication/wang-dimitriadis-ortiz-jimenez-fleuret-frossard-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nik-dim.github.io/publication/wang-dimitriadis-ortiz-jimenez-fleuret-frossard-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pareto Low-Rank Adapters: Efficient Multi-Task Learning with Preferences</title>
+      <link>https://nik-dim.github.io/publication/dimitriadis-frossard-fleuret-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nik-dim.github.io/publication/dimitriadis-frossard-fleuret-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Benefits of Max Pooling in Neural Networks: Theoretical and Experimental Evidence</title>
