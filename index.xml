@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>MEMOIR: Lifelong Model Editing with Minimal Overwrite and Informed Retention for LLMs</title>
+      <link>https://nik-dim.github.io/publication/wang-2025-memoir/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nik-dim.github.io/publication/wang-2025-memoir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LiNeS: Post-training layer scaling prevents forgetting and enhances model merging</title>
       <link>https://nik-dim.github.io/publication/wang-dimitriadis-favero-ortiz-jimenez-fleuret-frossard-2024/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -45,6 +53,14 @@
       <link>https://nik-dim.github.io/publication/dimitriadis-frossard-fleuret-2025/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://nik-dim.github.io/publication/dimitriadis-frossard-fleuret-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Input Multi-Output Model Merging: Leveraging Foundation Models for Dense Multi-Task Learning</title>
+      <link>https://nik-dim.github.io/publication/giraldo-2025-single/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nik-dim.github.io/publication/giraldo-2025-single/</guid>
       <description></description>
     </item>
     
@@ -216,7 +232,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-342658179&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-524768193&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +242,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-342658179&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-524768193&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
